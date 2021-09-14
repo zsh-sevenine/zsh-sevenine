@@ -6,5 +6,5 @@
 
 I write something at [Blog](https://zshnb.github.io/)
 
-![](https://github-readme-stats.vercel.app/api?username=zshnb)
-![](https://github-readme-streak-stats.herokuapp.com/?user=zshnb)
+![](https://github-readme-stats.vercel.app/api?username=zsh-sevenine)
+![](https://github-readme-streak-stats.herokuapp.com/?user=zsh-sevenine)
